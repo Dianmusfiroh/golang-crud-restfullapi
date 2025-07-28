@@ -10,7 +10,7 @@ Golang CRUD RESTful API is a simple RESTful API using Golang as the programming 
 - Auto-generated Swagger documentation
 - Modular clean architecture design
 - MySQL database integration
-
+- Unit testing using `github.com/stretchr/testify/assert`
 
 ## Development
 
